@@ -35,7 +35,6 @@ def lookup(name: str) -> str:
     'Context':'Given the list {name_of_job} I want you to get me the top 10 jobs in Senior Software Engineer jobs in Canada. It must be:
     - Full Time Permanent
     - Must be posted last 30 days
-    - Less than or equal to 5 years experience needed
     - Remote Job
     - Must be in Canada
     'Format': 'The output must be in table form with job name in first column, 
